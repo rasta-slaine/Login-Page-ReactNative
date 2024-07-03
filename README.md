@@ -1,7 +1,7 @@
 
 
 ## SpotCode
-Esse  aplicação é um App, para a InnovateTech com a solução para visualização das informações dos alunos de forma intuitiva em uma aplicação móvel.
+Esse  app é um pagina de login
 
 ## Technology 
 
